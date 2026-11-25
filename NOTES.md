@@ -58,6 +58,14 @@ placeholder POSTS.json it exits non-zero as designed (placeholder refused).
 - NOT submitted — submission needs (1) Joni to post the drafted replies
   from @ci3hu1 and hand back the post links, (2) POSTS.json filled in,
   (3) bundle + kit check, (4) his 'Setuju' on the exact entry.
-- Pool list still being read (x.com is blocked for text fetch; live-browser
-  read of https://x.com/makefunai delegated) — drafts for the remaining
-  pool posts follow once the list is in.
+- Pool list: x.com blocks text fetch AND the live browser (HTTP 403
+  domain-wide, bot wall, 00:38–00:47 WIB, no CAPTCHA shown). Recovered
+  via the jina reader (~00:55 WIB): 4 pool posts identified by text
+  (pinned "likes = pot", Tristan Debroise $19,513, GIF/video post with
+  no text, Slotbound $1.33M, AOD floor post). Status IDs for the
+  Tristan/Slotbound/pinned posts could NOT be retrieved (too new for
+  search indexing; jina gives text only) — Joni finds them by text in
+  his own X app. Drafts for all 5 are in DRAFTS.md, all ≤280 chars
+  verified with the longest play code substituted (273/235/222/207/164).
+  `PLAYCODE` in drafts is a placeholder for one of the account's four
+  play codes (values NOT recorded in any file/memory).
