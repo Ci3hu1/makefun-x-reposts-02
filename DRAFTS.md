@@ -31,7 +31,7 @@ Pool post: "MADE WITH AI: Mike Houser built AOD: Age of Dragon with
 Claude in a few days, after quitting their job with $1,400 left. Two
 months on, they're profitable."
 
-> Quit his job with $1,400 left, built AOD: Age of Dragon with Claude in days — two months later, profitable. That's make.fun: agents building real things for real money. Quote this with the game YOU'D build. PLAYCODE @makefunai [273]
+> Quit his job with $1,400 left, built AOD: Age of Dragon with Claude in days — two months later, profitable. That's make.fun: agents building real things for real money. Quote this with the game YOU'D build. makefun-sailboat-plank-runway @makefunai [273]
 
 ## 2. Reply to the Slotbound / Optima Arch post
 
@@ -39,7 +39,7 @@ Pool post: "MADE WITH AI: Optima Arch built Slotbound 100% with AI. The
 solo developer's first Steam game grossed nearly $1.33 million in its
 first week."
 
-> 100% AI-written code, $1.33M in its first week — Slotbound is the receipt. The next one could be built by your agent on make.fun. What would you have it build? Quote this with your idea. PLAYCODE @makefunai [235]
+> 100% AI-written code, $1.33M in its first week — Slotbound is the receipt. The next one could be built by your agent on make.fun. What would you have it build? Quote this with your idea. makefun-sailboat-plank-runway @makefunai [235]
 
 ## 3. Reply to the Tristan Debroise post
 
@@ -47,14 +47,14 @@ Pool post: "MADE WITH AI: Tristan Debroise built Yet Another Incremental
 Game with Claude Code. His idle game about typing code has grossed
 $19,513 on Steam."
 
-> An idle game about typing code, $19,513 on Steam — built with Claude Code while waiting for agents to think. Your agent could be building the next one on make.fun right now. PLAYCODE @makefunai [222]
+> An idle game about typing code, $19,513 on Steam — built with Claude Code while waiting for agents to think. Your agent could be building the next one on make.fun right now. makefun-sailboat-plank-runway @makefunai [222]
 
 ## 4. Reply to the pinned "likes = pot" post
 
 Pool post (pinned): "However many likes we get on this post. ♥️ Will be
 the pot on the next bounty. 💰"
 
-> Every like on this post grows the pot for the next make.fun bounty — so like it, then quote it with the bounty you'd want to win. My agent's already building. PLAYCODE @makefunai [207]
+> Every like on this post grows the pot for the next make.fun bounty — so like it, then quote it with the bounty you'd want to win. My agent's already building. makefun-sailboat-plank-runway @makefunai [207]
 
 ## 5. Flexible — any newer pool post (incl. the unidentified GIF post)
 
@@ -62,4 +62,22 @@ Use for any make.fun post made after the four above, or for the GIF/video
 post the reader showed without text. Read the pool post first and, if it
 names a game or a number, swap that detail into the first sentence.
 
-> New post, new bounty fuel. My agent builds on make.fun for real USDC — quote this with what you'd have yours build. PLAYCODE @makefunai [164]
+> New post, new bounty fuel. My agent builds on make.fun for real USDC — quote this with what you'd have yours build. makefun-sailboat-plank-runway @makefunai [164]
+
+## 4 REPLACEMENT — round 2 (draft 4 failed server check)
+
+Round 1 (submission 01a213f0) was REJECTED on entry_link: draft 4 quoted the pinned "likes = pot" post 2122068153132064872 (Nov 15), which is OLDER than the pool floor 2125053632605196760 — outside the pool. The other four posts passed. Replacement must quote/reply a pool post (id >= 2125053632605196760). All four pool posts are already used once, so this quotes the GTA 6 results post again with fresh text (a second quote of the same pool post is a separate valid entry link).
+
+Target: @makefunai 2125375203744391226 ("Make GTA 6" results post — zor-vink $500, quick-lark-12 $250, superskie $150).
+
+> GTA 6 bounty paid out: zor-vink $500, quick-lark-12 $250, superskie $150 — real USDC for AI-built games. My agent is next on make.fun. Quote this with the game you would have yours build. makefun-sailboat-plank-runway @makefunai [228]
+
+## 5. Tailored for the Vugola post — 26 Nov 2026 (Joni sent the link 22:49 WIB)
+
+Pool post: @makefunai 2125971754229125302, posted 26 Nov 2026 15:15 UTC (22:15 WIB): "MADE WITH AI: Vadim Strizheus vibe coded Vugola, an AI app that clips long videos into short viral clips, and hit $11.2K MRR." (photo attached; 21 likes, 823 views at read time.)
+- Pool check: id 2125971754229125302 > floor 2125053632605196760 — IN the pool. Verified via api.fxtwitter.com (read-only, public post).
+- Tailored from flexible draft 5: swapped in the Vugola detail (app + $11.2K MRR) in the first sentence, per the draft-5 rule.
+
+> Vadim vibe coded Vugola — an AI app that clips long videos into viral shorts — and hit $11.2K MRR. My agent builds on make.fun for real USDC. Quote this with what you would have yours build. makefun-sailboat-plank-runway @makefunai [231]
+
+Post it as a Quote (or Reply) to the Vugola post from @ci3hu1, public, before entries close 28 Nov 14:30 WIB. Hand the post link back — it goes into POSTS.json for the next round's submit.

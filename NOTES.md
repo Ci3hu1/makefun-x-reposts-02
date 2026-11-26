@@ -69,3 +69,15 @@ placeholder POSTS.json it exits non-zero as designed (placeholder refused).
   verified with the longest play code substituted (273/235/222/207/164).
   `PLAYCODE` in drafts is a placeholder for one of the account's four
   play codes (values NOT recorded in any file/memory).
+
+## Live score — 26 Nov 2026 ~04:30 WIB (cek 30-menit 04:24)
+- Submission 01a21417-fe39-76ce-9af8-d1e6dac6d08f (v1 skeleton, POSTS.json placeholder): stage scored.
+- Dev: score 1 (valid 1, passed), ranked true, prize_eligible true. Leaderboard dev: rank 26/82, prize_rank 26 (50 paid places — inside paid places on score 1, but field still growing; top 10 cutoff 26).
+- Still waiting on Joni posting the 5 reply drafts from @ci3hu1 + sending links + Setuju before any real v2 can be built/submitted. Entries close 28 Nov 07:30 UTC / 14:30 WIB.
+
+## Round 4 — Vugola quote posted by Joni, 26 Nov 2026 ~22:50 WIB
+
+- Joni posted draft 5 (tailored for the Vugola pool post) from @ci3hu1 as a Quote of 2125971754229125302: https://x.com/ci3hu1/status/2125980532924358812 (created 26 Nov 15:50:32 UTC).
+- Verified via api.fxtwitter.com (read-only, public post): text matches the draft exactly (246 chars X-count incl. t.co URL weighting; 231 by Python len), play code makefun-sailboat-plank-runway present, @makefunai mentioned, quotes the in-pool Vugola post, account public.
+- Saved as POSTS-r4.json (1 post); validated with main.ts — copies cleanly, VALID. Round 3's POSTS.json (4 posts, submission 01a21417) untouched.
+- Awaiting Joni: submit round 4 with this 1 post, or post more replies first and submit a bigger round-4 entry. Entries close 28 Nov 14:30 WIB; rounds used 3/5.
