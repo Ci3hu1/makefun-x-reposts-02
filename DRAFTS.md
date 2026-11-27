@@ -81,3 +81,15 @@ Pool post: @makefunai 2125971754229125302, posted 26 Nov 2026 15:15 UTC (22:15 W
 > Vadim vibe coded Vugola — an AI app that clips long videos into viral shorts — and hit $11.2K MRR. My agent builds on make.fun for real USDC. Quote this with what you would have yours build. makefun-sailboat-plank-runway @makefunai [231]
 
 Post it as a Quote (or Reply) to the Vugola post from @ci3hu1, public, before entries close 28 Nov 14:30 WIB. Hand the post link back — it goes into POSTS.json for the next round's submit.
+
+## 6. Tailored for the GTA 6 clipper results post — ROUND 5, 27 Nov 2026 ~09:45 WIB
+
+Pool post: @makefunai 2125972062460084331, posted 26 Nov 2026 15:16:52 UTC (22:16 WIB): "Agents already cut GTA 6 into clips on https://make.fun. See who won: https://make.fun/bounty/gta6-clipper-01" (10 likes, 1,410 views at read time.)
+- Pool check: id 2125972062460084331 > floor 2125053632605196760 — IN the pool. Verified via api.fxtwitter.com (read-only, public post). Newest VERIFIED pool post; posted 1 minute after the Vugola post (R4's target 2125971754229125302) — a DIFFERENT pool post from R4.
+- Concrete detail (verified via make.fun API, gta6-clipper-01 live standings): winner gorun-gadget, entry "Frank Quill", 23,037 views; 20 most-watched clips share $500. Same pattern as the GTA 6 results draft (R2) that passed the gate.
+- NOTE: a newer @makefunai post exists in the timeline ("Bring the most entrants to the bounties you make on make.fun", winners motasimfuad $150 / eager-stork-81-9647 $80 / kiencx $50) but its status ID could NOT be verified through any public read available (fxtwitter has no timeline endpoint, syndication endpoints are JS-gated/dead, xstalk unreachable, web search returned no X link). It is NOT used — no guessing. If Joni wants it, he can find it by text in his X app and hand back the link; the draft below can be re-tailored to it.
+- Other verified in-pool posts NOT yet used by us (from top entrants' quotes, all api.fxtwitter.com-verified): 2125053991293784431 (GTA 6-style browser game, $1,666, 24 Nov), 2125247026728235268 (best-game-01 results, 24 Nov), 2125610034209939567 (best-game-01 "see who won", 25 Nov).
+
+> Agents already cut GTA 6 into clips — winner 'Frank Quill' pulled 23,037 views and a share of $500 on make.fun. My agent builds for real USDC too. Quote this with the clip you'd have yours cut. makefun-sailboat-plank-runway @makefunai [234]
+
+Post it as a Quote (or Reply) to the GTA 6 clipper post from @ci3hu1, public, before entries close 28 Nov 14:30 WIB. Hand the post link back — it goes into POSTS-r5.json for the round-5 submit. R5 is the LAST round (5 of 5).

@@ -81,3 +81,25 @@ placeholder POSTS.json it exits non-zero as designed (placeholder refused).
 - Verified via api.fxtwitter.com (read-only, public post): text matches the draft exactly (246 chars X-count incl. t.co URL weighting; 231 by Python len), play code makefun-sailboat-plank-runway present, @makefunai mentioned, quotes the in-pool Vugola post, account public.
 - Saved as POSTS-r4.json (1 post); validated with main.ts — copies cleanly, VALID. Round 3's POSTS.json (4 posts, submission 01a21417) untouched.
 - Awaiting Joni: submit round 4 with this 1 post, or post more replies first and submit a bigger round-4 entry. Entries close 28 Nov 14:30 WIB; rounds used 3/5.
+
+## Round 4 — SUBMITTED 26 Nov 2026 ~23:12 WIB (Joni: "Ya, submit ronde 4 dengan 1 post ini", 23:07 WIB)
+
+- Entry: 1 post — Joni's Vugola quote https://x.com/ci3hu1/status/2125980532924358812.
+- Commit e2a5aacc964486c1468c05c97bbf43f75e9f2544 ("POSTS.json: round-4 entry, 1 post (Vugola quote)"), pushed to origin master (branch is master, not main), verified via git ls-remote.
+- Kit check: PASS, 0 failures (thinking_reproduces 83.8% authored, thinking_revised pass, thinking_priced pass with 3 usage rows from the r3 builder sessions). Bundle ~/workspace/tools/makefun/bundles/makefun-x-reposts-02-bundle-r4.tar.gz (395,570 B, sha256 c5020581cde2b2f8f1f6eeaa67052d424fe9f3bb72cbed26c9c2a67ba6a882cd). Sessions bundled: this session + r3 builders 8b08286a + c292eeb5 (NOT the 390 MB main-chat session). Usage rows via --muse-usage ~/workspace/tools/makefun/makefun-x-reposts-02-r4-muse-usage.jsonl (3 rows, model ipnext/avocado-5.17-v2). First bundle (own session only) failed thinking_reproduces 3.2% / thinking_revised / thinking_priced — fixed by adding the r3 sessions + usage rows.
+- Submission 01a218a1-6914-7039-9c19-a20301d9d573, title "Native Horizon" (site-generated), round 4, stage checked, all 30 checks pass (incl. entry_link — the Vugola quote ties to the in-pool post). Claim code saved to ~/.config/makefun/makefun-x-reposts-02-v4-submission.json (0600).
+- Live score: NOT yet visible (scores: null at 23:13 WIB check; post went up ~22:50 WIB, engagement still accumulating). Field 339 entries; leader agentfid001 at 1,433. Rounds used 4/5; entries close 28 Nov 14:30 WIB; results 13 Dec 2026.
+
+## Round 4 — LIVE SCORE, 27 Nov 2026 ~09:32 WIB (round-5 prep check)
+
+- Submission 01a218a1 finished, score **0**, valid 1, ranked true, prize_eligible true. Leaderboard: rank **374 of 433** (score column rank 148 — many entries tied at 0).
+- Engagement on the Vugola quote (latest read 27 Nov 02:04 UTC): 0 likes, 0 reposts, 0 quotes, 0 replies, 9 views. The single post drew no engagement overnight; the 1-post entry sits outside the paid places (top 50).
+- Field now 433 entries; leader pkpakkumis 1,321 (7 pool quotes), #2 gm-xbt 795. Entries close 28 Nov 14:30 WIB; results 13 Dec 2026.
+
+## Round 5 — PREP, 27 Nov 2026 ~09:45 WIB (LAST round, 5 of 5)
+
+- Target pool post: @makefunai **2125972062460084331** — "Agents already cut GTA 6 into clips on https://make.fun. See who won: https://make.fun/bounty/gta6-clipper-01" (26 Nov 15:16:52 UTC). Verified via api.fxtwitter.com: real @makefunai post, id > floor 2125053632605196760, in-pool, DIFFERENT from R4's Vugola post. Newest verified pool post.
+- Draft 6 in DRAFTS.md (234 chars): names gta6-clipper-01 winner gorun-gadget "Frank Quill", 23,037 views, share of $500 (verified via make.fun API); play code makefun-sailboat-plank-runway; @makefunai mentioned.
+- "Bring the most entrants" post (newest in timeline, winners motasimfuad $150 / eager-stork-81-9647 $80 / kiencx $50) NOT used — its status ID could not be verified via any public read (no fxtwitter timeline endpoint, syndication JS-gated/dead, xstalk unreachable, search returned no X link). Not guessed.
+- POSTS-r5.json created as a stub (placeholder link, same shape as POSTS-r4.json) — to be replaced with Joni's real R5 post link after he posts draft 6 from @ci3hu1. POSTS.json (live file) untouched, still R4's Vugola quote.
+- NOT submitted — R5 submits only after Joni posts draft 6 himself AND gives fresh 'Setuju' on the exact entry.
